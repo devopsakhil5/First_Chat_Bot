@@ -1,0 +1,19 @@
+uv
+streamlit   #for ui
+PyPDF2      #for reading PDF
+langchain   #for interacting with openai services == 0.0.190 Working version
+langchain_text_splitters 
+langchain-openai
+langchain-community
+faiss-cpu   #to vectore database to store embeddings
+
+
+uv
+streamlit   #for ui
+PyPDF2      #for reading PDF
+langchain   #for interacting with openai services == 0.0.190 Working version
+langchain_text_splitters 
+langchain-openai
+langchain-community
+faiss-cpu   #to vectore database to store embeddings
+
