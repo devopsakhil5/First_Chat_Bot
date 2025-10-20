@@ -11,8 +11,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.chains import RetrievalQA
 from langchain_community.chat_models import ChatOpenAI
 
-OPENAI_API_KEY="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"
-
+OPENAI_API_KEY="ABC"
 st.header("My First Chatbot")                # UI Heading
 
 with st.sidebar:                             # UI sidebar view
